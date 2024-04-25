@@ -16,21 +16,11 @@
                 Console.WriteLine(C1(z,x));
 
             }
-           /* else if(c == '-')
+            else if(c == '-')
             {
                 Console.WriteLine(C2(z, x));
             }
-            else if(c == '*')
-            {
-                Console.WriteLine(C3(z, x));
-            }
-            else if(c == ':')
-            {
-                Console.WriteLine(C4(z, x));
-            }*/
-            
-           
-           
+
 
 
         }
@@ -39,21 +29,12 @@
             double d = z + x;
             return d;
         }
-        /*private static double C2(double z, double x)
+
+        private static double C2(double z, double x)
         {
             double d = z - x;
             return d;
         }
-        private static double C3(double z, double x)
-        {
-            double d = z * x;
-            return d;
-        }
-        private static double C4(double z, double x)
-        {
-            double d = z / x;
-            return d;
-        }*/
 
     }
 }
