@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGitEdukov", "ConsoleAppGitEdukov.csproj", "{69049355-2ECA-40C2-ABBF-E3FAF4704359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69049355-2ECA-40C2-ABBF-E3FAF4704359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69049355-2ECA-40C2-ABBF-E3FAF4704359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69049355-2ECA-40C2-ABBF-E3FAF4704359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69049355-2ECA-40C2-ABBF-E3FAF4704359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD2B235-C880-4133-8C56-EAF571D9D7ED}
+	EndGlobalSection
+EndGlobal

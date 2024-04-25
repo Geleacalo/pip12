@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\ConsoleAppGitEdukov\bin\Debug\net6.0\ConsoleAppGitEdukov.exe
+C:\Users\student\Desktop\ConsoleAppGitEdukov\bin\Debug\net6.0\ConsoleAppGitEdukov.deps.json
+C:\Users\student\Desktop\ConsoleAppGitEdukov\bin\Debug\net6.0\ConsoleAppGitEdukov.runtimeconfig.json
+C:\Users\student\Desktop\ConsoleAppGitEdukov\bin\Debug\net6.0\ConsoleAppGitEdukov.dll
+C:\Users\student\Desktop\ConsoleAppGitEdukov\bin\Debug\net6.0\ConsoleAppGitEdukov.pdb
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.AssemblyInfo.cs
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.dll
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\refint\ConsoleAppGitEdukov.dll
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.pdb
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ConsoleAppGitEdukov.genruntimeconfig.cache
+C:\Users\student\Desktop\ConsoleAppGitEdukov\obj\Debug\net6.0\ref\ConsoleAppGitEdukov.dll
