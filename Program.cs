@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            double d;
+            double d =0;
             Console.WriteLine("Введите A");
             double z = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите B");
@@ -13,30 +13,47 @@
             char c = Convert.ToChar(Console.ReadLine());
             if(c == '+')
             {
-                d = z + x;
-                Console.WriteLine(d);
+                Console.WriteLine(C1(z,x));
 
             }
-            else if(c == '-')
+           /* else if(c == '-')
             {
-                d = z - x;
-                Console.WriteLine(d);
+                Console.WriteLine(C2(z, x));
             }
             else if(c == '*')
             {
-                d = z * x;
-                Console.WriteLine(d);
+                Console.WriteLine(C3(z, x));
             }
             else if(c == ':')
             {
-                d = z / x;
-                Console.WriteLine(d);
-            }
+                Console.WriteLine(C4(z, x));
+            }*/
             
            
            
 
 
         }
+        private static double C1(double z, double x)
+        {
+            double d = z + x;
+            return d;
+        }
+        /*private static double C2(double z, double x)
+        {
+            double d = z - x;
+            return d;
+        }
+        private static double C3(double z, double x)
+        {
+            double d = z * x;
+            return d;
+        }
+        private static double C4(double z, double x)
+        {
+            double d = z / x;
+            return d;
+        }*/
+
     }
 }
